@@ -1,0 +1,1 @@
+This slot machine application was created using JavaFX to allow for a GUI experience. Although not entirely complete yet because it calls for a function to be able to reset the game this application is functional. The slot machine images are provided in the Images folder for use. 
